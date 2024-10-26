@@ -5,3 +5,10 @@ Check out the website here: https://sites.google.com/view/bbtp111/home
 
 TODO:
 Implement a cli interface for BrainBTP.
+
+
+BrainBTP comes in two versions:
+
+GUI - Requires 2GB RAM, This version is a little heavier than the cli version.
+
+CLI - Requires 500MB RAM, This version is the same as GUI, Just more light.
