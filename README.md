@@ -2,4 +2,6 @@ BrainBTP - A open source chatbot forked from GPT1. It is fully offline and can w
 
 Check out the website here: https://sites.google.com/view/bbtp111/home 
 
-(WORK IN PROGRESS REPO)
+
+TODO:
+Implement a cli interface for BrainBTP.
