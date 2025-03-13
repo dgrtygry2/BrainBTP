@@ -1,1 +1,3 @@
 BrainBTP - A open source chatbot. work in progress...
+
+This chatbot is extremely lightweight and easy to use. being based on a super small language model that can run on low ram.
